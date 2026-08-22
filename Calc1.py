@@ -51,3 +51,5 @@ while True:
         break
     elif choice == "yes":
         print("ok")
+
+    print("it works")
